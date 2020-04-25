@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketTcpDbServer", "SocketTcpDbServer.csproj", "{3FCB71E1-C839-4A1B-B9D7-9445FECA82CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketTcpDbServerTests", "..\SocketTcpDbServerTests\SocketTcpDbServerTests.csproj", "{46C35422-C1F8-434A-A498-6BA0BA80198C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCB71E1-C839-4A1B-B9D7-9445FECA82CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCB71E1-C839-4A1B-B9D7-9445FECA82CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCB71E1-C839-4A1B-B9D7-9445FECA82CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCB71E1-C839-4A1B-B9D7-9445FECA82CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C35422-C1F8-434A-A498-6BA0BA80198C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C35422-C1F8-434A-A498-6BA0BA80198C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C35422-C1F8-434A-A498-6BA0BA80198C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C35422-C1F8-434A-A498-6BA0BA80198C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C49288EA-82A7-49AA-A311-DB757AA8D98E}
+	EndGlobalSection
+EndGlobal
